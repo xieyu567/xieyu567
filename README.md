@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xieyu567
 - 👀 I’m interested in Scala and Rust
-- 🌱 I’m currently learning something about database
+- 🌱 I’m currently learning something about database with AI
 - 💞️ I’m looking to collaborate on open souce project in database
 - 📫 If you want to contact, Please send email xieyu5678@gmail.com
 
